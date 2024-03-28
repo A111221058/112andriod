@@ -13,7 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "LinearLayOutDemo"
-include(":app")
+rootProject.name = "Calulator"
 include(":app")
  
